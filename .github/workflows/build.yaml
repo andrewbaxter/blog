@@ -1,0 +1,18 @@
+name: Build
+on:
+  push:
+    branches:
+      - "master"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: docker://ghcr.io/andrewbaxter/somewords:latest
+        with:
+          args: /somewords 'Andrew Baxter'
+      - uses: actions/upload-artifact@v3
+        with:
+          name: github-pages
+          path: pages
+      - uses: actions/deploy-pages@v2

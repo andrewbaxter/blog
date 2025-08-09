@@ -38,17 +38,17 @@ Art is: an idea, and the communication of that idea.
 
 This is pretty similar to the Oxford definition but it leaves out the feeling bit.
 
-The two parts are important. If you have an idea but never tell it to anyone, it's not communicated so it's not art (yet). If you turn on the radio and get noise, no idea has been communicated so it's not art. There can of course be ideas in the communication of an idea, like how you expose shots in a film, or the style in which you illustrate a book.
+The two parts are important. If you have an idea but never tell it to anyone, it's not communicated so it's not art (yet). If you turn on the radio and get noise, no idea has been communicated so it's not art. The communication of an idea can contain its own ideas too, like how you expose shots in a film, or the style in which you illustrate a book.
 
-But what's an idea then (as used in this context)? I believe an idea is: new, relevant information of a possibility. It's possible for a house to shine in this color in these weather conditions, at this time, in this sort of a location; it's possible for a murderer to blind a detective in this way; it's possible for a human to play this many instruments.
+But then, what's an idea (in this context)? I believe an idea is: new, relevant information of a possibility. It's possible for a house to shine in this color in these weather conditions, at this time, in this sort of a location; it's possible for a murderer to blind a detective in this way; it's possible for a human to play this many instruments.
 
-It's important to differentiate ideas from information. 2+2=4 is information, but not an idea. A report that X was elected is not art. I don't have any negative examples, but science fiction and fantasy communicate the idea of how life and society could be (a possibility) in the future, or if physics were somehow different. Lyrics in a song communicate new ways words can be used together, or a new way to convey the idea of "love" or some shade of that.
+It's important to differentiate ideas from information. 2+2=4 is information, but not an idea. A report that X was elected is not art. Science fiction and fantasy communicate the idea of how life and society could be (a possibility) in the future, or if physics were somehow different. Lyrics in a song communicate new ways words can be used together, or a new way to convey the idea of "love" or some shade of that.
 
-The use of "possibility" in the definition of idea ties back into the "communication" concept as well. If you want to produce an artwork about a murderer who blinds a detective in some way, but fail to communicate (read: convince) this to the reader, you have not produced art. It'd be like some kid reading a comic then relaying it to you: "the hero punches the bad guy at the speed of light and then teleports through a wall to catch the bomb and disables it and saves the day". The original comic may have communicated this with logic and details (enough to suspend disbelief), but from the kid it sounds thoroughly unbelievable.
+The use of "possibility" in the definition of idea also ties back into the "communication" concept as well. If you want to produce an artwork about a murderer who confuses a detective in some way, but fail to communicate (read: convince) this to the reader, you have not produced art. It'd be like some kid reading a comic then relaying it to you: "the hero punches the bad guy at the speed of light and then teleports through a wall to catch the bomb and disables it and saves the day". The original comic may have communicated this with logic and details (enough to suspend disbelief), but from the kid it sounds thoroughly unbelievable.
 
 The "new" part means that receiving the same information multiple times, only the first time is it an idea. If you've already seen an artist playing 10 instruments, if you see another artist playing 10 instruments it's no longer an idea.
 
-Relevance means, for example, if you don't have the knowledge or circumstances to make use of a possibility, it's also not an idea to you. If someone with neither interest nor knowledge of mechanics is told that it's possible to make a brushless electric motor, this isn't an idea to them.
+Relevance means, for example, if you don't have the knowledge or circumstances to make use of a possibility then it's also not an idea to you. If someone with neither interest nor knowledge of mechanics is told that it's possible to make a brushless electric motor, this isn't an idea to them.
 
 Anyways, I think this definition generally includes paintings, music, TV. This generally excludes lightbulb manufacturing and routine financial analysis.
 
@@ -56,7 +56,7 @@ There's an implicit idea in most art that "a human is capable of creating art li
 
 ## The implications!
 
-### We like art because we like ideas!
+### We like art because we like ideas
 
 I have nothing else to add here.
 
@@ -64,7 +64,7 @@ I have nothing else to add here.
 
 By the definition of idea, the same information of a possibility may not be new or relevant to everyone. This means that a given work might not be art to everyone. Math haiku on a university department blackboard are going to be art to fewer people than haiku about the weather.
 
-It takes time to internalize an idea. You can watch the same movie several times with excitement, but at some point you know the contents so well you do not experience it the same way. You may still enjoy the work - for nostalgia, because you associate it with memories, as a social event - but it is no longer artwork to you. For complex works, you may internalize some ideas in a work while discovering new ones making it an artwork longer, but in different ways.
+It takes time to internalize an idea. You can watch the same movie several times with excitement, but at some point you know the contents so well you do not experience it the same way. You may still enjoy the work - for nostalgia, because you associate it with memories, as a social event - but it is no longer artwork to you. For complex works, you may internalize some ideas in a work while discovering new ones making it an artwork for longer, but in different ways.
 
 Between these two things, works have a scale of artistic merit: some works may communicate to you no ideas and therefore have no "artistic merit", some may have a few ideas that appeal to you, and others may be incredibly full of ideas and have extremely great artistic merit. To one person a work may have only a few ideas and therefore have low artistic merit while to someone else have many ideas and have great artistic merit.
 
@@ -80,7 +80,7 @@ Some artists will reinvent themselves. Bands will split, and solo artists will d
 
 Video games are art - they communicate many ideas, effectively.
 
-Engineering would also be art under this definition. While not as universally appreciated, many people collect old cars like others do paintings: original Volkswagon Bugs, Model-T Ford, so on and so forth. There are even many people who display reproductions of patent diagrams on their walls.
+Engineering would also be art under this definition. While not as universally appreciated, many people collect old cars like others do paintings: original Volkswagon Bugs, Model-T Ford, so on and so forth. Many people even display reproductions of patent diagrams on their walls.
 
 ### Science, math
 

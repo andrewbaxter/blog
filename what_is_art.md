@@ -4,9 +4,9 @@ A long time ago I was told that the creator of the game Ico said that games aren
 
 But then I guess he later recanted... but anyway, a long time ago when I heard about the Ico creator, I wanted to argue back and say games _are_ art, but I couldn't do that without a definition for art.
 
-A clear definition for art can help clarify and move debates forward about art (what is and isn't art: sampling, AI, plagiarism). It can help people who want to make art but are experiencing deep gestalt decomposition. It could help in discussions and developing policy for protecting art: for instance, is a selfie taken by a monkey art? And maybe other things?
+A clear definition for art can help clarify and move debates forward about art (what is and isn't art: sampling, AI, plagiarism). It can help people who want to make art but are experiencing deep semantic satiation over the concept. It could help in discussions and developing policy for protecting art: for instance, is a selfie taken by a monkey art? And maybe other things? Mostly for getting into arguments though I think.
 
-Wikipedia says
+Wikipedia says art is
 
 > The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions
 
@@ -16,13 +16,19 @@ Cambridge
 
 > the making of objects, images, music, etc. that are beautiful or that express feelings
 
-I don't think objects can express feelings, but maybe they can cause people to experience feelings? Even then, the sound of chalk on a chalkboard (the unpleasant one) cause people a rather unpleasant feeling, but is probably not art.
+The etc here means that the definition is "this definition is left as an exercise for the reader".
+
+Looking at the rest: I don't think objects can express feelings, but maybe they can cause people to experience feelings? Even then, the sound of chalk on a chalkboard (the unpleasant one) cause people a rather unpleasant feeling, but is probably not art. Is a plain troll comment on a forum art?
 
 Merriam Webster
 
 > the conscious use of skill and creative imagination especially in the production of aesthetic objects
 
-Is a financial analyst actually an artist? Because they consciouslly use skill. If you ignore "especially" I think Manzoni would be disqualified.
+Nearly anyone could create a Jackson Pollock painting. It's hard to say that they were created with skill, unless your definition of skill is "the ability to produce the work" (satisfied in all circumstances). It's also hard to think that they were done consciously, and not randomly.
+
+I do think that Jackson Pollock paintings are art. But I think it's a good example. There are many other famous works of all varieties that have great imagination, but with poor illustration, or that were happy accidents.
+
+And their definition of `aesthetic` is a: beautiful, b: artistic. So if you ignore "especially" you'd be limited to beautiful things (Leonardo Da Vinci's Grotesque Heads is out) or you get the useless definition "art is the use of skill + imagination to produce art"... which is what?
 
 Oxford
 
@@ -36,9 +42,11 @@ Art is varied and vast, which makes it hard to define, but I don't think these d
 
 Art is: an idea, and the communication of that idea.
 
-This is pretty similar to the Oxford definition but it leaves out the feeling bit.
+This is similar to some of the previous definitions (or you could twist them to match: Oxford, more tenuously Merriam Webster) but I think this is more specific and understandable.
 
 The two parts are important. If you have an idea but never tell it to anyone, it's not communicated so it's not art (yet). If you turn on the radio and get noise, no idea has been communicated so it's not art. The communication of an idea can contain its own ideas too, like how you expose shots in a film, or the style in which you illustrate a book.
+
+### What's an idea?
 
 But then, what's an idea (in this context)? I believe an idea is: new, relevant information of a possibility. It's possible for a house to shine in this color in these weather conditions, at this time, in this sort of a location; it's possible for a murderer to blind a detective in this way; it's possible for a human to play this many instruments.
 
@@ -72,9 +80,9 @@ People are empathetic so even if someone does not personally consider a work art
 
 ### Style
 
-Many artists work hard to develop a "style". A style is typically a recognizable feature - a repeated idea, a way of doing things, shapes, ticks, etc. As such, a style is not an idea in subsequent works and therefore doesn't necessarily contribute to the artistic merit of those works.
+Many artists work hard to develop a "style". A style is typically a recognizable feature - a repeated idea, a way of doing things, shapes, ticks, etc. The fact that it's repeated (i.e. not new for fans) means a style is not an idea in subsequent works and therefore doesn't necessarily contribute to the artistic merit of those works.
 
-Some artists will reinvent themselves. Bands will split, and solo artists will do collaborations with other artists or publish under different names.
+Some artists will reinvent themselves. Bands will split, and solo artists will do collaborations with other artists or publish under different names in order to attempt new styles.
 
 ### Video games, engineering
 
@@ -84,7 +92,7 @@ Engineering would also be art under this definition. While not as universally ap
 
 ### Science, math
 
-This was the most abstract to me, but going by the definition I think the answer should be yes. Metaphorically, coming up with a creative proof or answer to a scientific problem (gravity, evolution, relativity) seems similar to creative solutions to engineering or design problems. And I don't think it would be strange to see one described as a work of art (regardless of whether that's meant metaphorically).
+This was the most abstract to me, but going by the definition I think the answer should be "yes". Metaphorically, coming up with a novel proof or answer to a scientific problem (gravity, evolution, relativity) seems similar to novel solutions to engineering or design problems. And I don't think it would be strange to see a great proof described as a work of art (regardless of whether that's meant metaphorically).
 
 ### Photography
 
@@ -100,49 +108,41 @@ I'd guess the monkey was curious and was just grabbing things and accidentally t
 
 However, if the photographer prepared the camera with the idea of "what would it look like if a monkey took a selfie" and lured the monkey into taking the photo, maybe doing multiple takes, that's a clear idea and I think it was communicated clearly so it would be art (even if that explanation were provided ex post facto).
 
-### Sampling, remixing, plagiarism
+When I discussed this with a friend he said "Well how would you know the difference?" What if the photographer was actually laying on the ground, holding the camera, and pressed the button after waiting for the monkey to hold out its arms in just the right way? I think it doesn't matter - the art comes from the production/selection of this photo and its presentation so that the ideas were communicated.
+
+I think attribution would be to everyone and everything that contributed to the photo, but in this case, assuming it was deliberate, the photographer's contribution is probably the most important (it could be done with another monkey, it could be done with another camera, but only one photographer had the idea).
+
+### Sampling (hip-hop style)
+
+(Note that there's a different definition of sampling which refers to using recorded audio as an instrument instead of a synthesizer)
+
+Credited or not, sampling is the reuse of an idea (a sample) in different contexts. This necessarily results in lower artistic merit if you're familiar with the different contexts because the sample is no longer new to you.
+
+This doesn't mean that sampled works have low artistic merit - the artistic merit comes from everything else on top of that sample. Repeated exposure to the sample also makes its novelty wear off quickly, so if you have lots of music with the same sample they may become less distinct (lose merit).
+
+In the sampling community good rare or obscure samples are highly sought after for this reason.
+
+### Remixing, arranging, covering
+
+Similar to sampling, the value of a remix is how the remixer transforms the original work.
 
 I listen to a lot of Touhou arrangements. Touhou is a video game series with a widely appreciated soundtrack that has relatively simple production. Numerous artists year after year release albums remixing and arranging this work. I've purchased dozens of such albums, and probably have 10 arrangements of some of the original songs. Each of these have enough artistic merit to me for me to purchase them, sometimes for large amounts of money.
 
-The key thing here is I knew the source material before I first experienced these arrangements. How the arrangements manage to use the source material while transforming it in a way that is, while still clearly recognizable, fresh and non-obvious is an idea that is more relevant to me than the source material itself. Because I know the original work I'm able to see just how creative the reinterpretation is.
+The key thing here is I knew the source material before I first experienced these arrangements. I enjoy how the arrangements manage to use the source material while transforming it in a way that is, while still clearly recognizable, fresh and non-obvious more than the source material itself. Because I know the original work I'm able to see just how creative the reinterpretation is.
 
-In some cases (like when the source material is very well known), the same can be said for sampling.
-
-However, when the source material is hidden or not known to the listener, an opposite effect can occur. Specifically, suppose a poorly produced work samples another work. I hear the poor work first and I don't enjoy it. Then, later, I may hear the original work, but the artistic merit is reduced because I've already experienced some of the key ideas in the poorly made sampling work. I experience little artistic merit from the poorly made work, and less from the original, and therefore less artistic merit overall.
-
-This can happen retroactively too: if a sample is a defining feature of a song, and then I hear numerous other songs with the same sample, I may tire of the sample and be unable to enjoy the work I experienced first.
-
-Often in video game soundtracks, there may be a track with an iconic sound or rhythm section from a commercial sample pack. And later I'll hear another soundtrack with a song that uses the same sample, because it's a good sample. But now I recognize that the parts other than the sample in the two tracks were unimpressive (no ideas specific to those songs), and the sample doesn't stand alone either (it's just drums, or some ambient effect), so to me there's overall less art.
-
-I think the above generally applies to plagiarism as well.
-
-What if the plagiarized work is better than the original? I think, directly speaking, that it would have more artistic merit! However:
-
-- Mentioned in the definition, in many works I think there's an implicit idea that "a single person is capable of coming up with this idea". Finding out that multiple people worked on it, later, means that "a single person is not capable of coming up with this idea", reducing the artistic merit.
-
-  The idea could also be "the person who made another, related, or maybe significantly different work, also made this work." The misattribution deprives the viewer of this idea as well. Knowing about other works may contextualize ideas in this work, or highlight subtle new ideas that may not be visible otherwise.
-
-  Knowing who made a piece of art is very important to many people, I think related to this implicit idea. They may look up the attributed artist to find more art with similar qualities and be disappointed.
-
-  This is the most direct argument.
-
-- I think that for a plagiarized work to be better than the original the plagiarist would have to both understand the idea and its surroundings better than the original artist as well as communicate those. People are different, and have different circumstances and situations - I don't think this is possible. Most plagiarists dilute the original idea with unrelated ideas from their own headspace.
-
-- A plagiarst could contribute a great idea relative to a mediocre source work, but this may not be possible to recognize unless you know the source material.
-
-I think plagiarism is bad for many reasons other than those stated here: created inefficiencies, deprivation of free will, coloring of an artist's other non-plagiarized works due to loss of trust, but since they aren't directly related to the topic here I won't go into detail.
+Good remixes can and do stand on their own too, but sometimes knowing the source material is important to recognize the ideas in the remix.
 
 ### Classical music performances
 
-While there's a lot of classical music, it is finite and some is more popular than others. If you've been to several classical music performance, you'll probably hear the same pieces multiple times.
+While there's a lot of classical music, it is finite and some is more popular than others. If you've been to several classical music performances, you'll probably hear the same pieces multiple times.
 
-Like remixing, what people listen for in many classical performances is creative reinterpretation. The word "interpretation" is frequently used.
+Like remixing, what people listen for in many classical performances is creative reinterpretation (and the word "interpretation" is frequently used). It's why you might own multiple recordings of Beethoven.
 
-A pure reproduction with no interpretation would not be art (or at least, it wouldn't be art separate from the original piece).
+A pure reproduction with no interpretation would not be art (or at least, it wouldn't be new art separate from the original piece).
 
 ### AI art
 
-Generally speaking, AI creates works that are an interpolation of existing art. Therefore, if there _is_ an idea in a piece of AI artwork, that idea is essentially just the prompt -- but AI art is art.
+Generally speaking, AI creates works that are an interpolation of existing art. Therefore, if there _is_ an idea in a piece of AI artwork, that idea is essentially just the prompt -- but AI art _is_ art.
 
 I think the reason so many people don't want to accept AI art as art is that most AI art has very short (or idea-less; not new or relevant) prompts. Taking the recent Ghibli AI art trend as an example, the style of the art contains no ideas: the Ghibli style was created by Ghibli and most people are already familiar with it, and the AI generated art contains no new ideas within the style. Then the prompt is typically something like "me walking down a street with my coworker", which is neither unique nor relevant.
 
@@ -150,51 +150,45 @@ I think the reason so many people don't want to accept AI art as art is that mos
 
 I'm going to go on a tangent here. I (and a lot of people, I think) want to learn to play instruments, but balk at the idea of spending years learning how to play any specific instrument. What if there were a way to learn to be a guitar virtuoso in a week - couldn't I jump straight to producing songs and become a star?
 
-What many people don't realize that practice is much more than just making neural connections between a sound and a body movement. A huge part of practice is also _experimentation_ and _exploration_ - before you figure out just the right volume, fingering, plucking motion for a sound you try hundreds if not thousands of combinations. Some of these combinations may be useful in creative situations. Through practicing hundreds of songs with hundreds of phrases, movements, etc. you may go through millions of possible playing techniques and even develop some unique ones further. This isn't just knowing the combinations, but recognizing that plucking, fingering, and volume themselves are important parameters that can communicate vastly different ideas.
+What many people don't realize that practice is much more than just making neural connections between a sound and muscle activation. A huge part of practice is also _experimentation_ and _exploration_ - before you figure out just the right volume, fingering, plucking motion for a sound you try hundreds if not thousands of combinations. Some of these combinations may be useful in creative situations. Through practicing hundreds of songs with hundreds of phrases, movements, etc. you may go through millions of possible playing techniques and even develop some unique ones further. And this isn't just knowing the combinations, but recognizing that plucking, fingering, and volume themselves are important parameters that can communicate vastly different ideas.
 
 Many musicians will tell you that learning to read sheet music and play notes accurately is only a small part of learning to play an instrument. There are people who can learn to play an instrument very quickly, but in these cases I think they've already gone through much of this exploration with another instrument, or by doing some activity similar to music performance, and can transfer some of this learning to the new instrument. They haven't just skipped unnecessary work.
 
-The exploration allows you to know what sorts of ideas work well with other ideas, or work against ideas. When you end up producing a work, you can draw on these to layer ideas and produce art that is thick and dense with artistic merit.
+Anyways, the exploration allows you to know what sorts of ideas work well with other ideas, or work against ideas. When you end up producing a work, you can draw on these to layer ideas and produce art that is filled with the ideas from your exploration.
 
 In the visual arts, the artist Tao ilustrates scenes filled with toys, food, furniture, decorations, people, living beings, and much more, all warmly inviting and vibrant (that is, enhancing the themes in the piece and expanding the world). I tried to illustrate an album cover with a number of shelves filled with stuff... not mimicking Tao but with a similar idea. I ran out of ideas before half the shelves were filled. This was the first art of the sort I had attempted.
 
 Even in very rough works, the scribbles, blobs representing people, dashes of color, have a consistency that arises from experience that will lead people to consistently visualize things that aren't there. The unfilled lillies in Monet's work imply pooled water, the greens and purples in the pond could be aquatic plants, reflections of flowers, or the sunset sky. They are not detail, but they imply detail through consistency. They support or twist ideas elsewhere in the work.
 
-So returning to AI art, in most work by aritsts who have primarily worked with AI, that sort of detail and deep layering ideas is either not present or a cacaphony that actively detracts from the work. Unless you tell the AI what you're going for, the AI doesn't know to add that stuff. And as a picture is worth 1000 words, it likely won't know without a significant amount of writing.
+So returning to AI art, in most work by aritsts who have primarily worked with AI, that sort of detail and deep layering ideas is either not present, or is a cacaphony of conflicting ideas that actively detract from the overarching idea of the work. Unless you tell the AI what you're going for, the AI doesn't know to add that stuff. And as a picture is worth 1000 words, it likely won't know without a significant amount of writing.
 
-Furthermore, many AI artists don't recognize this lack of depth or detail consciously because they skipped the process of filling in the work. Dashes of color in the water can imply someone out of frame on the opposite shore - AI wouldn't be able to add this detail without you telling it, and an AI artist wouldn't realize that's a detail that's missing. And even if they did realize, I don't think they would be able to provide instruction to fill this in.
+Furthermore, many AI artists don't recognize this lack of depth or detail consciously because they skipped the process of filling in the work (i.e. they're not aware of which parameters there even are to be specified). In Monet, dashes of color in the water can imply someone out of frame on the opposite shore - AI wouldn't be able to add this detail without you telling it, and an AI artist wouldn't realize that's a detail that's missing. And even if they did realize, I don't think they would be able to provide instruction sufficient for the AI to creatively communicate this idea via detail.
 
-Of course, if an AI artist provides all that detail to the AI - all the ideas a traditional artist would produce in the N hours they spent painting - and it doesn't exceed the prompt/context limit, I don't think anyone would object to calling that art. I think at that point most artists would probably think it's simpler to just use painting software instead of trying to communicate it all via prompt.
+Of course, if an AI artist _does_ provide all that detail to the AI - all the ideas a traditional artist would add in the N hours they spent painting - and it doesn't exceed the prompt/context limit, I don't think anyone would object to calling that art. I do think at that point most artists would probably think it's simpler to just use painting software instead of trying to communicate it all via prompt.
 
-I think the apocryphal story of Picasso making a quick drawing on a napkin and demanding millions of Francs is relevant here.
+The apocryphal story of Picasso making a quick drawing on a napkin and demanding millions of Francs is relevant here.
 
 #### Trust and undisclosed AI art
-
-Similar to the arguments about plagiarised art (also, forgeries) the risk of works of hidden methodology and origin is that you will, at some point, realize that the work has little artistic merit.
 
 Appreciating the artistic merit is directly linked to understanding the ideas in a work, and this can take time. We use signs of effort and education (brush technique, accurate instrument playing, quality of film exposure, etc) as a proxy for the density of ideas in a work.
 
 AI art mimicks these signs without the accompanying density of ideas. You see an AI artwork, and recognize the signs of an idea-dense work, and are drawn in. But when you start to dig into it, you realize the work is idea-sparse and you've wasted your time, and maybe other people's time too.
 
-For this reason many people now take signs of AI generation as a negative signal, regardless of the actual artistic merit of the work.
+For this reason many people now take signs of AI generation (em dashes) as a negative signal, regardless of the actual artistic merit of the work.
 
-Maybe it's best that these proxies have been devalued, but because finding works of significant artistic merit takes time otherwise without replacement proxies it will make things overall more difficult.
+Maybe it's best that these proxies have been devalued, but because finding works of significant artistic merit takes a lot of time and effort, without replacement proxies I think it will make things overall more difficult.
 
 #### The future
 
 I wrote the above on the current state of AI. I think AI will continue to improve.
 
-I don't believe it will be possible for AI to know, without communication, what an artist is trying to communicate any more than another human would. AI may get better at producing consistent or non-misshapen background details for instance, but it won't have _ideas_ (that enhance the artistic merit of the work) for background details because the artist didn't give it any.
+I don't believe it will be possible for AI to know, without communication, what an artist is trying to communicate any more than another human would. AI may get better at producing consistent or non-misshapen background details for instance, but it won't have _ideas_ (that enhance the artistic merit of the work) for background details if the artist didn't give it any.
 
-Maybe an advance in AI could allow AI to extrapolate new, relevant (based on lifestyles, news, historic fact) ideas (a central theme, supporting details, etc) rather than interpolating other ideas, and produce the work entirely on its own, skipping the need for communication. While this would lack ideas about human potential to create such works I think they could still be works of significant artistic merit.
+Maybe an advance in AI could allow AI to produce new, relevant (based on lifestyles, news, historic fact) ideas (a central theme, supporting details, etc) rather than just interpolating, and then produce the work entirely on its own skipping the need for communication.
 
 ### Nature
 
-Mountains, flowers, clouds, etc. don't typically communicate any clear idea. People may read ideas from nature they experience, but I think those ideas are obvious or widely shared, so I don't think nature is generally art itself. If you asked 5 people what the idea behind Mount Everest was, or what Mount Everest means to them, I think you'd get five different answers.
-
-If we were in Nepal, looking at Mount Everest, and you said to me "The idea of Everest is the limit of purely human physical capacity" - that statement, plus the view we shared, might be art.
-
-I was also wondering if I should add something about "arising from humans" or "sapience" to the definition of "idea", but I couldn't think of a good way to word it.
+Mountains, flowers, clouds, etc. don't typically communicate any clear idea. Certainly nobody intended for a specific piece of untouched nature to communicate any specific idea. If people get ideas from observing nature (e.g. gravity from a falling apple), it's more likely due to their own circumstances and creativity rather than any intrinsic communicative aspect of the nature itself.
 
 ### Baby art
 
